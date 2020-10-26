@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Time Table</title>
+	<style type="text/css">
+		table,tr,td{
+			border: 1px solid black;
+			border-collapse: collapse;
+			font-family: helvetica;
+		}
+	</style>
+</head>
+<body>
+	<center>
+		<table border="1" width="1700">
+			<tr>
+				<th colspan="8">
+					<strong>
+						<h2>GOVERNMENT ENGNINEERING COLLEGE MODASA</h2>
+					</strong>
+				</th>
+			</tr>
+			<tr>
+				<td colspan="8">
+					<center>
+						<strong><h3>CE/IT DEPARTMENT</h3></strong>
+					</center>
+				</td>
+			</tr>
+			<tr>
+				<th colspan="8">
+					<strong><h3>CLASS TIME TABLE</h3></strong>
+				</th>
+			</tr>
+			<tr>
+				<td colspan="4">
+					<strong><h3>CLASS</h3></strong>
+				</td>
+				<td colspan="2">
+					<strong><h3><u>5ITB</u></h3></strong>
+				</td>
+				<td colspan="2">
+					<strong><h3>w.e.f 22/06/2020</h3></strong>
+				</td>
+			</tr>
+			<tr>
+				<th width="50">
+					<strong><h3></h3></strong>
+				</th>
+				<th>
+					<strong><h3>TIME</h3></strong>
+				</th>
+				<th>
+					<strong><h3>MON</h3></strong>
+				</th>
+				<th>
+					<strong><h3>TUE</h3></strong>
+				</th>
+				<th>
+					<strong><h3>WED</h3></strong>
+				</th>
+				<th>
+					<strong><h3>THU</h3></strong>
+				</th>
+				<th>
+					<strong><h3>FRI</h3></strong>
+				</th>
+				<th  width="100">
+					<strong><h3>SAT</h3></strong>
+				</th>
+			</tr>
+			<tr>
+				<td>
+					<center><h3><p>1</p></h3></center>
+				</td>
+				<td>
+					<center><strong><h3>10:55 TO 11:55</h3></strong></center>
+				</td>
+				<td>
+					<center><p>CN(3150710)-PSM-8211</p></center>
+				</td>
+				<td rowspan="2">
+					<center>
+						<p>B1 WD(3151606)-JBB-8213</p>
+						<p>B2 DE-IIA(3150001)-NA-8215</p>
+						<p>B3 DE-IIA(3150001)-Na-8216</p>
+						<p>B4 WD(3151606)-JBB-8213</p>
+					</center>
+				</td>
+				<td>
+					<center><p>WD(3151606)-JBB-8211</p></center>
+				</td>
+				<td rowspan="2">
+					<center>
+						<p>B1 DE-IIA(3150001)-NA-8213</p>
+						<p>B2 CS(3050714)-KKJ-8215</p>
+						<p>B3 CS(3050714)-NA-8216</p>
+						<p>B4 ADA(3150703)-NNM-8217</p>
+					</center>
+				</td>
+				<td>
+					<center><p>CS(3150714)-JBB-8211</p></center>
+				</td>
+				<td>
+					<!-- there is no lecture exist, i mean to say it's an empty -->
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<center><h3><p>2</p></h3></center>
+				</td>
+				<td>
+					<center><strong><h3>11:55 TO 12:55</h3></strong></center>
+				</td>
+				<td>
+					<center><p>IPDC(3150005)-ABP-8211</p></center>
+				</td>
+				<td>
+					<center><p>ADA(3150703)-SAC-8211</p></center>
+				</td>
+				<td>
+					<center><p>CN(3150710)-AAP-8211</p></center>
+				</td>
+				<td>
+					<!-- there is no lecture exist, i mean to say it's an empty -->
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<center><h3><p>3</p></h3></center>
+				</td>
+				<td>
+					<center><strong><h3>13:20 TO 14:20</h3></strong></center>
+				</td>
+				<td rowspan="2">
+					<center>
+						<p>B1 ADA(3150703)-NNM-8213</p>
+						<p>B2 CN(3150710)-PSM-8215</p>
+						<p>B3 WD(3151606)-JBB-8216</p>
+						<p>B4 CS(3050714)-VAR-8217</p>
+					</center>
+				</td>
+				<td rowspan="2">
+					<center>
+						<p>B1 CS(3150714)-VAR8213</p> 
+						<p>B2 ADA(3150703)-NNM8215</p> 
+						<p>B3 CN(3150710)-PSM8216</p> 
+						<p>B4 WD(3151606)-JBB8217</p>
+					</center>
+				</td>
+				<td rowspan="2">
+					<center>
+						<p>B1 CN(3150710)-OPM8213</p> 
+						<p>B2 WD(3151606)-JBB8215</p> 
+						<p>B3 ADA(3150703)-NNM8216</p> 
+						<p>B4 DE-IIA(3150001)-NA8217</p>
+					</center>
+				</td>
+				<td>
+					<center><p>PE(3150709)-NA-8211</p></center>
+				</td>
+				<td>
+					<center><p>ADA(3150703)-NNM-8211</p></center>
+				</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>
+					<center><h3><p>4</p></h3></center>
+				</td>
+				<td>
+					<center><strong><h3>14:20 TO 15:20</h3></strong></center>
+				</td>
+				<td>
+					<center><p>ADA(3150703)-NNM8211</p></center>
+				</td>
+				<td>
+					<center><p>IPDC(3150005)-MHV8211</p></center>
+				</td>
+				<td>
+					<!-- there is no lecture exist, i mean to say it's an empty -->
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<center><h3><p>5</p></h3></center>
+				</td>
+				<td>
+					<center><strong><h3>15:30 TO 16:30</h3></strong></center>
+				</td>
+				<td>
+					<center><p>PE(3150709)-NA-8211</p></center>
+				</td>
+				<td>
+					<center><p>WD(3151606)-JBB-8211</p></center>
+				</td>
+				<td>
+					<center><p>PE(3150709)-NA-8211</p></center>
+				</td>
+				<td>
+					<center><p>CN(3150710)-AAP-8211</p></center>
+				</td>
+				<td>
+					<center><p>CN(3150710)-PAB-8211</p></center>
+				</td>
+				<td>
+					<!-- there is no lecture exist, i mean to say it's an empty -->
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<center><h3><p>6</p></h3></center>
+				</td>
+				<td>
+					<center><strong><h3>16:30 TO 17:30</h3></strong></center>
+				</td>
+				<td>
+					<!-- there is no lecture exist, i mean to say it's an empty -->
+				</td>
+				<td>
+					<center><p>ADA(3150703)-SAC-8211</p></center>
+				</td>
+				<td>
+					<!-- there is no lecture exist, i mean to say it's an empty -->
+				</td>
+				<td>
+					<center><p>WD(3151606)-HRP-8211</p></center>
+				</td>
+				<td>
+					<center><p>CS(3150714)-MVC-8211</p></center>
+				</td>
+				<td>
+					<!-- there is no lecture exist, i mean to say it's an empty -->
+				</td>
+			</tr>
+		</table>
+	</center>
+</body>
+</html>
